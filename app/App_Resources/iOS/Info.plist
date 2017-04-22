@@ -44,8 +44,8 @@
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
 	<key>NSPhotoLibraryUsageDescription</key>
-		<string>Used to find saved pictures</string>
+	<string>$(PRODUCT_NAME) photo use</string>
 	<key>NSCameraUsageDescription</key>
-		<string>Used to take pictures</string>
+	<string>$(PRODUCT_NAME) camera use</string>
 </dict>
 </plist>
